@@ -1,32 +1,16 @@
-# Ai-video-generator-
-An AI-powered video generation platform
-# AI Video Generator
 
-An open-source AI-powered video generation platform.
+# AI Image to Video Generator
+
+Generate beautiful videos from a single image using AI and Python.
 
 ## Features
-- Image to Video Generation
-- Text to Video Generation
-- User-friendly Interface
-- Cloud Processing
+- Upload image and customize duration + fps
+- Apply auto enhancement
+- Add background music
+- Download final video
 
-## Tech Stack
-### Frontend
-- React.js
-- Material UI
-- Axios
+## Run in Google Colab
+[Open in Colab](https://colab.research.google.com/)
 
-### Backend
-- Flask/FastAPI
-- MongoDB Atlas
-- Cloudinary
-
-### AI Processing
-- Google Colab
-- Open Source AI Models
-
-## Project Status
-🚧 Under Development
-
-## Contact
-[Your Name] - [Your Email/GitHub Profile]
+## License
+MIT
